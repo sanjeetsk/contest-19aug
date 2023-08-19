@@ -2,6 +2,12 @@
     background-color: lightsteelblue;
 }
 
+.errorMsg{
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
 .btn{
     width: 30%;
     font-size: 18px;
