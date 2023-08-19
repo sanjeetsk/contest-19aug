@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contest-19aug/static/css/main.22c26a5f.css",
+    "main.js": "/contest-19aug/static/js/main.6c7baf02.js",
+    "index.html": "/contest-19aug/index.html",
+    "main.22c26a5f.css.map": "/contest-19aug/static/css/main.22c26a5f.css.map",
+    "main.6c7baf02.js.map": "/contest-19aug/static/js/main.6c7baf02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22c26a5f.css",
+    "static/js/main.6c7baf02.js"
+  ]
+}
